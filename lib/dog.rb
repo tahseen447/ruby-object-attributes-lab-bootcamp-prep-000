@@ -1,6 +1,7 @@
 def Dog
   @name
   @breed
+
 def name
   @name
 end
