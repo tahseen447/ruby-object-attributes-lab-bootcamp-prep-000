@@ -1,8 +1,10 @@
 def Dog
-
+@name
 def name
+  @name
 end
 
-def name=
+def name=(user_name)
+  name = user_name
 end
 end
