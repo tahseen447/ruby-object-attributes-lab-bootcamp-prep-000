@@ -1,6 +1,6 @@
 def Dog
-  @name = name
-
+  @name
+  @breed
 def name
   @name
 end
