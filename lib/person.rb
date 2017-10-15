@@ -6,8 +6,8 @@ def name
   @name
 end
 
-def name=(user_name)
-  name = user_name
+def name=(new_name)
+  name = new_name
 end
 
 
